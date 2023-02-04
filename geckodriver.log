@@ -1,0 +1,249 @@
+1673542043231	geckodriver	INFO	Listening on 127.0.0.1:39393
+1673542043613	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54261" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8iQq3Z"
+Gtk-Message: 22:17:23.661: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:17:23.661: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542044872	Marionette	INFO	Marionette enabled
+1673542044883	Marionette	INFO	Listening on port 35937
+Read port: 35937
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:54261
+1673542045171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8iQq3Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54261/devtools/browser/b7ef7912-d768-46c0-8f92-ee10c2346ee4
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673542180494	geckodriver	INFO	Listening on 127.0.0.1:46195
+1673542180887	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI6q9vr"
+Gtk-Message: 22:19:40.940: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:19:40.941: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542182140	Marionette	INFO	Marionette enabled
+1673542182149	Marionette	INFO	Listening on port 38403
+Read port: 38403
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:49563
+1673542182443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI6q9vr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49563/devtools/browser/ebb47417-5ca5-48b5-9934-964b19bd0844
+1673542193249	Marionette	INFO	Stopped listening on port 38403
+1673542383857	geckodriver	INFO	Listening on 127.0.0.1:35483
+1673542384242	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEQG3ZZ"
+Gtk-Message: 22:23:04.296: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:23:04.296: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542385550	Marionette	INFO	Marionette enabled
+1673542385560	Marionette	INFO	Listening on port 41789
+Read port: 41789
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:33465
+1673542385833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEQG3ZZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33465/devtools/browser/835c476b-962d-41af-9a52-17e953c55c24
+1673542396264	Marionette	INFO	Stopped listening on port 41789
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: /tmp/rust_mozprofileEQG3ZZ/protections.sqlite
+1673542478287	geckodriver	INFO	Listening on 127.0.0.1:42593
+1673542478671	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecuRijm"
+Gtk-Message: 22:24:38.725: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:24:38.726: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542479930	Marionette	INFO	Marionette enabled
+1673542479939	Marionette	INFO	Listening on port 38217
+Read port: 38217
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:56983
+1673542480234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecuRijm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56983/devtools/browser/ba031132-617b-4ccc-a658-707f9bd80381
+1673542489871	Marionette	INFO	Stopped listening on port 38217
+1673542750221	geckodriver	INFO	Listening on 127.0.0.1:60605
+1673542750608	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqH8zBQ"
+Gtk-Message: 22:29:10.656: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:29:10.656: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542751970	Marionette	INFO	Marionette enabled
+1673542751980	Marionette	INFO	Listening on port 39671
+Read port: 39671
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43445
+1673542752290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqH8zBQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43445/devtools/browser/00c9131d-908c-447f-82d6-5a7c0ff0d3aa
+1673542761702	Marionette	INFO	Stopped listening on port 39671
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "Sqlite.sys.mjs: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1673542801242	geckodriver	INFO	Listening on 127.0.0.1:54321
+1673542801656	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenJRhfX"
+Gtk-Message: 22:30:01.698: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:30:01.698: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542802720	Marionette	INFO	Marionette enabled
+1673542802727	Marionette	INFO	Listening on port 35205
+Read port: 35205
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44207
+1673542802982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenJRhfX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44207/devtools/browser/aea68dc1-b116-4a10-8732-d957782935e7
+1673542812045	Marionette	INFO	Stopped listening on port 35205
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: /tmp/rust_mozprofilenJRhfX/protections.sqlite
+1673542837025	geckodriver	INFO	Listening on 127.0.0.1:36913
+1673542837425	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile24tz4O"
+Gtk-Message: 22:30:37.465: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:30:37.465: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673542838515	Marionette	INFO	Marionette enabled
+1673542838525	Marionette	INFO	Listening on port 42931
+Read port: 42931
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:46905
+1673542838856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile24tz4O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46905/devtools/browser/59e01ab9-316d-4c17-8d3e-d018b98d752e
+1673542846683	Marionette	INFO	Stopped listening on port 42931
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1106: Error: Sqlite.sys.mjs has been shutdown. Cannot open connection to: /tmp/rust_mozprofile24tz4O/protections.sqlite
+1673543749205	geckodriver	INFO	Listening on 127.0.0.1:55657
+1673543749617	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenCH2Dr"
+Gtk-Message: 22:45:49.664: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:45:49.664: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673543750663	Marionette	INFO	Marionette enabled
+1673543750670	Marionette	INFO	Listening on port 44257
+Read port: 44257
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:58809
+1673543750918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenCH2Dr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58809/devtools/browser/6ae5e65e-4174-4eb3-a52b-33e2bd894d01
+1673543760845	Marionette	INFO	Stopped listening on port 44257
+1673543845685	geckodriver	INFO	Listening on 127.0.0.1:49007
+1673543846083	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVTsRVg"
+Gtk-Message: 22:47:26.133: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:47:26.134: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673543847129	Marionette	INFO	Marionette enabled
+1673543847136	Marionette	INFO	Listening on port 36477
+Read port: 36477
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:35839
+1673543847392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVTsRVg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35839/devtools/browser/de3e81c8-6334-4c35-8b82-04f34d4101d4
+1673543856209	Marionette	INFO	Stopped listening on port 36477
+1673543923258	geckodriver	INFO	Listening on 127.0.0.1:34197
+1673543923661	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD7oTde"
+Gtk-Message: 22:48:43.705: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:48:43.706: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673543924703	Marionette	INFO	Marionette enabled
+1673543924710	Marionette	INFO	Listening on port 39027
+Read port: 39027
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:33239
+1673543924979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD7oTde/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33239/devtools/browser/5729d786-093b-422c-8abd-4eafdb09df7a
+1673543933917	Marionette	INFO	Stopped listening on port 39027
+1673543986612	geckodriver	INFO	Listening on 127.0.0.1:42855
+1673543987008	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7dwGGw"
+Gtk-Message: 22:49:47.051: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 22:49:47.052: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673543988085	Marionette	INFO	Marionette enabled
+1673543988094	Marionette	INFO	Listening on port 38705
+Read port: 38705
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44907
+1673543988421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7dwGGw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44907/devtools/browser/e30a8253-68f9-44e2-81e0-3fde9afdb027
+1673543997502	Marionette	INFO	Stopped listening on port 38705
+1673587834717	geckodriver	INFO	Listening on 127.0.0.1:54243
+1673587835150	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWwPLUi"
+Gtk-Message: 11:00:35.194: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 11:00:35.195: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673587836240	Marionette	INFO	Marionette enabled
+1673587836249	Marionette	INFO	Listening on port 40655
+Read port: 40655
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43485
+1673587836484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWwPLUi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43485/devtools/browser/2fe13bf0-a9cc-40be-bb07-188352a1686a
+1673587856615	Marionette	INFO	Stopped listening on port 40655
+1673587888639	geckodriver	INFO	Listening on 127.0.0.1:34309
+1673587889004	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilersWxgD"
+Gtk-Message: 11:01:29.046: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 11:01:29.046: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673587890044	Marionette	INFO	Marionette enabled
+1673587890052	Marionette	INFO	Listening on port 33803
+Read port: 33803
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:50577
+1673587890320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilersWxgD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50577/devtools/browser/09b5067e-d9d5-4a58-acd3-9dec32ddce6b
+1673587904846	Marionette	INFO	Stopped listening on port 33803
+1673587928836	geckodriver	INFO	Listening on 127.0.0.1:42287
+1673587929230	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerigN6P"
+Gtk-Message: 11:02:09.285: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 11:02:09.285: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673587930318	Marionette	INFO	Marionette enabled
+1673587930325	Marionette	INFO	Listening on port 46317
+Read port: 46317
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44793
+1673587930577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerigN6P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44793/devtools/browser/0f4884b9-dcb1-43c4-a849-bc1f602be380
+1673587940728	Marionette	INFO	Stopped listening on port 46317
+1673588292121	geckodriver	INFO	Listening on 127.0.0.1:34717
+1673588292525	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3q2YDi"
+Gtk-Message: 11:08:12.566: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 11:08:12.566: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673588293636	Marionette	INFO	Marionette enabled
+1673588293644	Marionette	INFO	Listening on port 38121
+Read port: 38121
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:35909
+1673588293893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3q2YDi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35909/devtools/browser/65ebde29-5509-4672-a67c-c8126b7956a7
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1673588492374	Marionette	INFO	Stopped listening on port 38121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673588509783	geckodriver	INFO	Listening on 127.0.0.1:59549
+1673588510206	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile29uCJJ"
+Gtk-Message: 11:11:50.269: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 11:11:50.270: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1673588511238	Marionette	INFO	Marionette enabled
+1673588511245	Marionette	INFO	Listening on port 43865
+Read port: 43865
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:51169
+1673588511515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile29uCJJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51169/devtools/browser/8a2195a8-ae53-40e9-9303-78d8a505a44d
+1673588528677	Marionette	INFO	Stopped listening on port 43865
